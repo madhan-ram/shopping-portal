@@ -31,7 +31,7 @@ pipeline{
     
     post{
         always{
-            echo 'this is my first pipeline…’
+            echo 'this is my first pipeline…'
         }
         
     }
